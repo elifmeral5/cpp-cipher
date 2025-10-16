@@ -1,0 +1,5 @@
+*.cpp~
+*.h~
+*.o
+*#*
+proj4 # if proj4 is a compiled binary
